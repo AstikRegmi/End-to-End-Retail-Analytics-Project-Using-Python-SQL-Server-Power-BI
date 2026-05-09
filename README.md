@@ -34,13 +34,6 @@ This project analyzes retail customer purchasing behavior using Python, Microsof
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](Images/Dashboard 1.png)
-![Dashboard](Images/Dashboard 2.png)
-
----
-
 ## 📁 Project Files
 - Python notebooks (EDA & cleaning)
 - SQL queries
@@ -49,6 +42,15 @@ This project analyzes retail customer purchasing behavior using Python, Microsof
 - Reports
 
 ---
+
+## 📸 Dashboard Preview
+
+![Dashboard](Images/Dashboard1.png)
+![Dashboard](Images/Dashboard2.png)
+
+---
+
+
 
 ## 📌 Author
 Astik Regmi
